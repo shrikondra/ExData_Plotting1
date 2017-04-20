@@ -1,5 +1,6 @@
-## Shripad Kondra
-April, 2017
+## Project Submitted by
+Shripad Kondra, April, 2017
+
 ## About
 Project1 of EDA course
 
